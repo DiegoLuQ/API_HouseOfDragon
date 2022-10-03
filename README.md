@@ -1,4 +1,9 @@
 # API_HouseOfDragon
+
+<h5>
 Tecnologies: Python 
-  Framework: FastAPI, Uvicorn
-  Database: MongoDB
+  
+  Framework:FastAPI
+  
+  Database:MongoDB 
+</h5> 
